@@ -37,7 +37,9 @@ html, body {
 }
 
 .icone_materias {
-  width: 55px;
+  width: 51px;
+  margin-left: 6px;
+  margin-top: 3px;
 }
 
 .mdl-demo .mdl-layout__header-row {
