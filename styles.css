@@ -36,6 +36,10 @@ html, body {
   
 }
 
+.icone_materias {
+  width: 55px;
+}
+
 .mdl-demo .mdl-layout__header-row {
   padding-left: 40px;
   background-color: #095872;
