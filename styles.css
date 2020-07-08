@@ -55,6 +55,14 @@ html, body {
   margin-top: 5px;
 }
 
+.imagem_devs {
+  width: 98px;
+  margin-left: 1px;
+  margin-top: 1px;
+  border-radius: 50%;
+  
+}
+
 .mdl-demo .mdl-layout__header-row {
   padding-left: 40px;
   background-color: #095872;
