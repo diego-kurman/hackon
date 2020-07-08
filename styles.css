@@ -36,10 +36,18 @@ html, body {
   
 }
 
+.icone_sobre {
+  height: 156px;
+  line-height: 64px;
+   margin-right: 8px; 
+   line-height: inherit;
+  
+}
+
 .icone_materias {
-  width: 51px;
+  width: 49px;
   margin-left: 6px;
-  margin-top: 3px;
+  margin-top: 5px;
 }
 
 .mdl-demo .mdl-layout__header-row {
