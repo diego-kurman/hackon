@@ -25,7 +25,12 @@ html, body {
   flex-shrink: 0;
   color: whitesmoke;
   font-size: 60px;
-  margin-bottom: 0px;
+  margin-bottom: 5px;
+  font-family: 'Gugi', cursive;
+}
+
+.format_title {
+  font-family: 'Gugi', cursive;
 }
 
 .icone {
