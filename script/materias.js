@@ -10,12 +10,12 @@ let materia = [{
 {
     titulo: 'Algoritmo',
     info: 'Na informatica, algoritmo é um conjunto das regras e procedimentos lógicos perfeitamente definidos que levam à solução de um problema em um número finito de etapas.',
-    conteudos: ['Contextualização', '...']
+    conteudos: ['Variaves', 'Operadores matemáticos', 'Condicionais', 'Laços de repetição']
 },
 {
     titulo: 'Banco de dados',
     info: 'Banco de dados é...',
-    conteudos: ['Variaves', 'Operadores matemáticos', 'Condicionais', 'Laços de repetição']
+    conteudos: ['Tipos de banco de dados', 'Comandos MySql', 'Modelo conceitual', 'Modelo Lógico']
 },
 {
     titulo: 'Arquitetura computacional',
