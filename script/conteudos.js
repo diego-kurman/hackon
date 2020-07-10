@@ -1,9 +1,12 @@
 let materias= document.querySelectorAll('#div_materias a');
-
-console.log(materias);
+let materias2 = document.querySelectorAll("#MateriasId div div a");
+console.log(materias2);
 
 for(var cont=0;cont<materias.length;cont++){
     materias[cont].setAttribute('onclick',`mudarConteudo(${cont-1})`);
+}
+for(var cont=0;cont<materias2.length;cont++){
+    materias2[cont].setAttribute('onclick',`mudarConteudo(${cont})`);
 }
 
 function mudarConteudo(id_materia){
