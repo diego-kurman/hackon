@@ -75,6 +75,9 @@ html, body {
   }
 }
 
+.socialmediadevelopers {
+  cursor: pointer;
+}
 
 .mdl-demo .mdl-layout__header-row {
   padding-left: 40px;
