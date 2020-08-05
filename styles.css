@@ -27,6 +27,11 @@ html, body {
   font-size: 60px;
   margin-bottom: 5px;
   font-family: 'Gugi', cursive;
+  cursor: pointer;
+}
+
+.mdl-layout__header-row>*:hover {
+  text-shadow: 0px -10px 30px cornflowerblue;
 }
 
 .format_title {
@@ -78,6 +83,10 @@ html, body {
 .socialmediadevelopers {
   cursor: pointer;
   font-size: 11px;
+}
+
+.Copyright {
+ font-size: 11px;
 }
 
 .mdl-demo .mdl-layout__header-row {
@@ -147,6 +156,7 @@ html, body {
 .mdl-demo.mdl-demo .mdl-card__supporting-text h4 {
   margin-top: 0;
   margin-bottom: 20px;
+  color: black;
 }
 .mdl-demo .mdl-card__actions {
   margin: 0;
@@ -235,6 +245,7 @@ html, body {
   font-size: inherit;
   margin: 0;
   margin-bottom: 0.5em;
+  color: #00BCD4;
 }
 .mdl-demo section .section__text a {
   text-decoration: none;
