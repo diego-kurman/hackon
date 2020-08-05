@@ -68,7 +68,7 @@ html, body {
 @media all and (min-width: 1025px){
   .imagem_devs {
     width: 98px;
-    margin-left: 0px;
+    margin-left: 1px;
     margin-top: 1px;
     border-radius: 50%;
     
