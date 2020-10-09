@@ -1,0 +1,17 @@
+Toda vez que for inicia um teste abra o terminal do visual studio no package.json
+e dê o comando:
+
+npm run cypress 
+
+
+Dento do Cypress existe 4 pastas:
+De uma fora bem resumida essas 4 pastas são:
+fixtures: Utilizada para os arquivos de dados fixos, como mocks que serão utilizados nos testes;
+integration: Utilizada para os arquivos de testes;
+plugins: Utilizada para arquivos que eu posso criar/editar para modificar ou estender o comportamento interno no Cypress;
+support: Utilizada para arquivos de importação e comandos personalizados que podemos criar dentro do Cypress,
+
+E para ver se os testes foram realizados pelo terminal do visual studio, é somente digitar
+
+npm run cypress:open
+
